@@ -1,0 +1,2 @@
+/clients nick1 
+nick1: dsfdasfas
